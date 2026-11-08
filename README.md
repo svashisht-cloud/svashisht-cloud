@@ -1,8 +1,6 @@
-## Hi there 👋
-
 # Hey, I'm Shubh 👋
 
-Software engineer interested in **robotics, autonomous systems, AI, and 3D web experiences**. Previously at **Outrider**, where I built C++/ROS tooling, live telemetry dashboards, and 3D visualizations for autonomous trucks.
+Software engineer interested in **robotics, autonomous systems, AI, and 3D web experiences**. Previously at **Outrider AI**, where I built C++/ROS tooling, live telemetry dashboards, and 3D visualizations for autonomous trucks.
 
 > I lost access to my [old GitHub account](https://github.com/shubh-vashisht). This is my new profile.
 

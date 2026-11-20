@@ -8,7 +8,7 @@ Software engineer interested in **robotics, autonomous systems, AI, and 3D web e
 
 - 🤖 **[Arcfield](https://arcfield-autonomy.vercel.app/)** — Fleet software for robotics teams
 - ✨ **[Forte](https://forteresume.com/)** — AI-powered resume tailoring
-- 💻 **[Portfolio](https://shubhsportfolio.vercel.app/)** — My work and projects
+- 💻 **[Portfolio](https://shubhvashisht.com/)** — My work and projects
 
 ### 🛠️ Tech
 
